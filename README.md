@@ -1,1 +1,4 @@
 # comupter-as-a-medium
+### This is a repo for the Computer As A Medium Fall 2026.
+### Group Name: DigiFun
+### Group Members: Ella Wilson, Skylar (Nicolette) Hoyte
